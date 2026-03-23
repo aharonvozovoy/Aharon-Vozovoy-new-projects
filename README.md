@@ -22,5 +22,3 @@ TARGET DEEP TECH ACCELERATORS (MARCH 2026) / ЦЕЛЕВЫЕ АКСЕЛЕРАТО
  * Boom Capital: Specialized in "impossible" technologies and deep scientific breakthroughs.
  * Seraphim Space: Leading fund for in-orbit infrastructure and alternative propulsion systems.
  * Unit M: DeepTech accelerator focusing on bridging the gap between academic theory and commercial prototypes.
-Твой следующий шаг:
-Этот текст готов к использованию. Хочешь, я подготовлю для тебя шаблон короткого сопроводительного письма (Cold Outreach) на английском языке, которое ты сможешь разослать представителям этих фондов в LinkedIn, прикрепив этот Summary?
