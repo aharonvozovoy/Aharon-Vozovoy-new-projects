@@ -1,6 +1,5 @@
 # Aharon-Vozovoy-new-projects
 New Projects
-Аарон, вот готовый блок для копирования. 
 EXECUTIVE SUMMARY: PROJECT ALDEBARAN / ПРОЕКТ АЛЬДЕБАРАН
 Topic: Propellantless Propulsion via Non-Linear Plasma Resonance / Бестопливная тяга на базе нелинейного плазменного резонанса.
 RUSSIAN VERSION / РУССКАЯ ВЕРСИЯ
